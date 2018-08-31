@@ -1,0 +1,10 @@
+1.navicat100_premium_en.exe
+	安装程序
+	
+2.Navicat.Premium.Enterprise.Edition.v10.0.6.Incl.Keygen.rar
+	破解软件
+	
+3.instantclient_11_2.zip/instantclient_12_2.zip
+	是破解navicat_premium连接orcal配置oci.dll和sqlplus.exe的包，其中instantclient_11_2带sqlplus.exe，instantclient_12_2不带sqlplus.exe
+	配置教程如下：
+		http://wiki.navicat.com/wiki/index.php/Instant_client_required
